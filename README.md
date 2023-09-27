@@ -28,4 +28,4 @@ Click the `Sign in` button.
 
 Click the `oneid` button.
 
-### :partying_face: I congratulate you, you have Keycloak app which is integrated to OneID.uz
+### 🥳 I congratulate you, you have Keycloak app which is integrated to OneID.uz
